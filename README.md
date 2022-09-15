@@ -5,10 +5,9 @@
 > "Bookstore" is a simple website that displays a list of books and allows you to add and remove books from that list. You Can keep track of your books by adding them to your collection by category with their author's Names.
 
 # Sreenshot
+
 # Live Demo
 > [Go live]()
-
-![](https://github.com/Bateyjosue/react_todo_list/blob/dev/src/images/screen.png)
 
 # Built With:
 
@@ -36,7 +35,7 @@
 
 >Note: You can also run the development server or by running `npm dev` or `npm run dev` or  production server `npm build` or `npm run build`
 
-### After the server is runned open your brower and browse to the following address: 
+### After the server is running open your browser and browse to the following address: 
 
     localhost:3000
 
